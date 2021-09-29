@@ -6,7 +6,7 @@ However, we noticed that the same code responsible for fetching notes from the b
 # Start the application
 To start an application, do the following :
 
-# Install dependancies
+# Install dependencies
 $ npm install
 # Start the JSON Server
 $ npm run server
